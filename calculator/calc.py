@@ -9,25 +9,25 @@
   x = input(float("enter the decided variable for x:")
   sum = (x + y)
 print (sum)
-elif user_input == "sub"
+elif user_input == "sub":
  y = input(float("enter the decided variable for y:")
  x = input(float("enter the decided variable for x:")
 sum = (x-y)
 	print(sum)
-elif user_input == 'mult'
+elif user_input == 'mult':
   y = input(float("enter the decided variable for y:")
   x = input(float("enter the decided variable for x:")
    sum = (x*y)
   print (sum)
- elif user_input == 'div'
+ elif user_input == 'div':
     y = input(float("enter the decided variable for y:")
     x = input(float("enter the decided variable for x:")
     sum = (x//y)
     print (sum)
-  elif user_input == "expo"
+  elif user_input == "expo":
     y = input(float("enter the decided variable for y:")
     x = input(float("enter the decided variable for x:")   
     sum = x**y
     print(sum)
-   else 
+   else: 
              print("no detected input , plz try again")
