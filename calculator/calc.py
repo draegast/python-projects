@@ -27,5 +27,5 @@ elif user_input == "expo":
     x = float(input("enter the decided variable for x: "))
     sum = x**y
     print(sum)
-else
+
   
