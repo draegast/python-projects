@@ -1,4 +1,4 @@
-n = input("Input a number: ")
+n = int(input("Input a number: "))
 
 i = 0
 
