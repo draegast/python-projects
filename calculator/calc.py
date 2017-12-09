@@ -4,7 +4,7 @@ print ("type input here:")
 user_input = input(": ")
 
 def doub(x):
-    return x*2
+    return x * 2
 
 def add(x,y):
     return x +y
