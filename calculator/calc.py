@@ -27,7 +27,7 @@ if user_input == "add":
     sum = add(x,y)
     print(sum)
 
- elif user_input == "sub":
+elif user_input == "sub":
     x = float(input("enter the decided variable for x: "))
     y = float(input("enter the decided variable for y: "))
     sum = sub(x,y)
