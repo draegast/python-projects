@@ -59,4 +59,3 @@ elif user_input == "double":
     doubled = doub(x)
     print(doubled)
     
-  
