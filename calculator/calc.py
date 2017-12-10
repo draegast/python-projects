@@ -51,11 +51,11 @@ elif user_input == "expo":
     sum = expo(x,y)
     print(sum)
     
-elif user_input == "THE ANSWER":
-    print(42)
-    
 elif user_input == "double":
     x = float(input("enter the decided variable for x: "))
     doubled = doub(x)
     print(doubled)
+
+elif user_input == "THE ANSWER":
+    print(42)
     
