@@ -24,6 +24,7 @@ while True:
 
  if user_input == "break":
      break
+   
  elif user_input == "add":
      x = float(input("enter the decided variable for x: "))
      y = float(input("enter the decided variable for y: "))
