@@ -1,16 +1,10 @@
-n = int(input("input a number:  "))
+num = int(input("input a number:  "))
 
-i = 0
-if:
-i = even
-print(even)
-
-else:
-i = odd
-print(odd)
-
-elif:
-i = %
-print(%i)
-i = i + 1
-
+ def even_odd(num):
+ # If % 2 is 0, the number is even.
+ if num % 2 == 0:
+ print("{} is even")
+  return not num % 2
+   else:
+      print("{} is odd")
+ 
